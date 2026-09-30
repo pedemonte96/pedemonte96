@@ -22,6 +22,4 @@ Scientific computing and statistical analysis for searches for rare Higgs-boson 
 
 ## Technical interests
 
-**Stochastic modelling · Optimisation · Monte Carlo · Machine learning · Causal inference · Statistical modelling · Numerical methods · Scientific computing**
-
-**Python · C/C++ · SQL · MATLAB · Git · CI/CD**
+**Stochastic modelling · Optimisation · Monte Carlo · Machine learning · AI · Causal inference · Statistical modelling · Numerical methods · Scientific computing**
